@@ -1,5 +1,10 @@
 # Must Read Books of All Time
 
+
+## Algorithms
+
+* [x]  Introduction to Algorithms (3rd Edition) (Cormen, Leiserson, Rivest and Stein)
+
 ## Programming
 
 * [ ]  Code: The Hidden Language of Computer Hardware and Software Paperback (Charles Petzold)
