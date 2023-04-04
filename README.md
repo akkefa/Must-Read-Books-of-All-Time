@@ -1,7 +1,7 @@
 #  📚 Must Read Books of All Time 📚
 
 
-## ⚙️ Algorithms
+## ⚙️ Algorithms & Data Structures
 
 * [x]  Grokking Algorithms (Aditya Bhargava)
 * [x]  Introduction to Algorithms (3rd Edition) (Cormen, Leiserson, Rivest and Stein)
