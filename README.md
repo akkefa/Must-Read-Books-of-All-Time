@@ -5,6 +5,7 @@
 
 * [x]  Grokking Algorithms (Aditya Bhargava)
 * [x]  Introduction to Algorithms (3rd Edition) (Cormen, Leiserson, Rivest and Stein)
+* [x]  [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) (by Jeff Erickson)
 
 ## Programming
 
