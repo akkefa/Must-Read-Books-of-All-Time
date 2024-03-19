@@ -11,6 +11,10 @@
 
 * [ ]  Code: The Hidden Language of Computer Hardware and Software Paperback (Charles Petzold)
 
+## Machine Learning
+
+* [ ]  An Introduction to Statistical Learning https://www.statlearning.com/ (Gareth James)
+
 
 ## Probability and Statistics
 
