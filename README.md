@@ -14,6 +14,7 @@
 ## Machine Learning
 
 * [ ]  An Introduction to Statistical Learning https://www.statlearning.com/ (Gareth James)
+* [x]  Machine Learning Design Interview: Machine Learning System Design Interview 2022 (Khang Pham)
 
 
 ## Probability and Statistics
