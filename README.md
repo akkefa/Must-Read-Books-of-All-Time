@@ -29,3 +29,4 @@
 * [x] [Deep Learning Book](https://www.deeplearningbook.org/) (Ian Goodfellow)
 * [ ] [Dive into Deep Learning](https://d2l.ai/index.html) (Amazon Team) 
 * [ ] [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book/) (Simone Scardapane)
+* [ ] [The Little Book of Deep Learning]([https://www.sscardapane.it/alice-book/](https://fleuret.org/public/lbdl.pdf)) (François Fleuret)
