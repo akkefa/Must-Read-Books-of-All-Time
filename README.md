@@ -1,5 +1,7 @@
 #  📚 Must Read Books of All Time 📚
 
+## ☀️🪴🧘‍♀️☕️ Self Help
+* [ ]  Thinking, Fast and Slow (Daniel Kahneman)
 
 ## ⚙️ Algorithms & Data Structures
 
